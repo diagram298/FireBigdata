@@ -146,8 +146,7 @@
 1. 연관어 분석 :  선택된 기간의 소방 화재 뉴스의 ‘NamedEntity’를 WordCloud로 시각화
 2. 사고 원인 분석 : MRC 결과에 대해서 라벨링 진행 → 그에 따른 맵핑 결과를 Pie차트로 구성
     
-    ![이슈별 사고원인분석 MRC결과](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d5fc4a56-9824-431d-94e8-206bb2e1957c/Untitled.png)
-    
+    ![Untitled](https://user-images.githubusercontent.com/93654012/229436827-c0e73a4b-e14c-4851-b6fb-90d229704d81.png)
     이슈별 사고원인분석 MRC결과
     
 
