@@ -1,0 +1,20 @@
+# [1차 : 뉴스키워드를 이용한 소방 빅데이터 플랫폼 구축]
+![화면 캡처 2023-04-03 155047](https://user-images.githubusercontent.com/93654012/229432805-e64a2f82-5401-418c-88cc-0e7f8ea2f4e4.png)
+
+![1](https://user-images.githubusercontent.com/93654012/229434440-078456ef-4eaa-4872-813f-a763f0bdde44.png)
+![2](https://user-images.githubusercontent.com/93654012/229434451-145d8e24-c13d-4889-a043-5fdeff8de97b.png)
+![3](https://user-images.githubusercontent.com/93654012/229434457-ecc3cfd8-15b3-4f8f-8a16-5778cf970178.png)
+![4](https://user-images.githubusercontent.com/93654012/229434526-9399ae82-2e23-4fae-bb71-168fbe9b9c1a.png)
+![5](https://user-images.githubusercontent.com/93654012/229434540-bce30ba9-557b-4990-be8f-9ec64cf40ad3.png)
+![6](https://user-images.githubusercontent.com/93654012/229434548-9428ef81-442b-4db0-865a-86de0e95c113.png)
+![7](https://user-images.githubusercontent.com/93654012/229434596-a1b849d0-1aa4-4e49-9393-5506414b05ee.png)
+![8](https://user-images.githubusercontent.com/93654012/229434639-31384e99-7f3d-40b7-b856-fc81827a33ba.png)
+![9](https://user-images.githubusercontent.com/93654012/229434652-8766b205-7dc2-4a34-8b41-1734cfd9ab9f.png)
+![10](https://user-images.githubusercontent.com/93654012/229434662-bcfb6609-3d2b-40f5-9eda-8edce5e9e251.png)
+![11](https://user-images.githubusercontent.com/93654012/229434671-1531a46e-dfd8-4caf-8e1f-a6d9f2309d76.png)
+![12](https://user-images.githubusercontent.com/93654012/229434679-a7b1aad3-df78-48e5-9dd7-8f8f26d08d0f.png)
+![13](https://user-images.githubusercontent.com/93654012/229434684-9c062c55-9bbc-42ca-97f4-a789ee2a9fe0.png)
+![14](https://user-images.githubusercontent.com/93654012/229434704-8b00093d-3e51-4702-8a6e-9233e3d0113a.png)
+![17](https://user-images.githubusercontent.com/93654012/229434719-eea93341-48a1-487b-bb2f-be5cf63df924.png)
+![18](https://user-images.githubusercontent.com/93654012/229434728-b73e271d-886a-42ee-a22f-ab655c7b523b.png)
+
