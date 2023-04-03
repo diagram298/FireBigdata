@@ -133,4 +133,4 @@
 
 ## 3) 관련 뉴스(GREEN)
 
-- [`[1]이슈대시보드`의 관련 뉴스와 동일](https://github.com/diagram298/FireBigdata/new/main/%5B2%EC%B0%A8%5D_%EB%89%B4%EC%8A%A4%ED%82%A4%EC%9B%8C%EB%93%9C%EB%A1%9C_%EB%B6%84%EC%84%9D%ED%95%9C_%EC%86%8C%EB%B0%A9%EC%9D%B4%EC%8A%88_%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C#2-%EB%89%B4%EC%8A%A4-%EB%B6%84%EC%84%9Dyellow)
+- [`[1]이슈대시보드`의 관련 뉴스와 동일](https://github.com/diagram298/FireBigdata/tree/main/%5B2%EC%B0%A8%5D_%EB%89%B4%EC%8A%A4%ED%82%A4%EC%9B%8C%EB%93%9C%EB%A1%9C_%EB%B6%84%EC%84%9D%ED%95%9C_%EC%86%8C%EB%B0%A9%EC%9D%B4%EC%8A%88_%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C#2-%EB%89%B4%EC%8A%A4-%EB%B6%84%EC%84%9Dyellow)
